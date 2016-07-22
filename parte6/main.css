@@ -1,0 +1,29 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+div{
+	width: 200px;
+	height: 200px;
+}
+.fucsia{
+	background-color: #ee3e64;
+	left:0px;
+	top:0px;
+}
+.azul{
+	background-color: #44accf;
+	left:200px;
+	top:200px;
+	position: absolute;
+}
+.verde{
+	background-color: #b7d84b;
+	left: 0px;
+	bottom: 0px;
+}
+.amarillo{
+	background-color: yellow;
+	right: 0px;
+	bottom: 0px;
+}
